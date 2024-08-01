@@ -7,19 +7,22 @@ A tool that collects information about IP address
 # Install and Run
 How to install:
 
-apt update
+اداة IP-info مختصه في جمع معلومات عن الIP مثل الموقع ومزود الخدمة تبع الإنترنت
+اوامر التثبيت 👇
+1- apt update
 
-pkg install git
+2- pkg install git
 
-git clone https://github.com/GH726-dev/IP-INFO
+3- git clone https://github.com/GH726-dev/IP-INFO
 
-########################
+4- cd IP-info
 
+5- bash install.sh
+لتشغيل الاداة:
+6 - IP-info IPوهنا تكتب ال 
+المراد فحصهq
+مثل:q
+IP-info 7.7.7.7
 
-How to run:
-
-cd IP-info
-
-bash install.sh
-
-IP-info ip
+- https://t.me/Termex_Cyber_security -
+- https://t.me/Termex_Cyber_security -
